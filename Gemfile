@@ -1,4 +1,4 @@
-source 'http://rubygems.dev'
+source :rubygems
 
 gem 'sinatra', '~> 1.3'
 gem 'slim', '~> 1.3'
